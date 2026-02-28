@@ -47,7 +47,7 @@ Recepção dos participantes e informações gerais
 
 ### 13:00 - 13:30 | Apresentação do Evento
 **Apresentadores:**
-- Luiz Real | [Linkedin](https://www.linkedin.com/in/luizreal/)
+- Luiz Real | [Linkedin](https://www.linkedin.com/in/lgsreal/%20%20)
 - Simone Pinheiro | [Linkedin](https://www.linkedin.com/in/apinheira-tech/)
 
 ---
@@ -117,13 +117,13 @@ Recepção dos participantes e informações gerais
 
 **Participantes:**
 - Juarez Barbosa Jr. | Sr Principal Developer Evangelist @Oracle
-  [Linkedin]](https://www.linkedin.com/in/jujunior/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BHkpwBhddSbe%2Fim6fCjn4UA%3D%3D%20%20)
+  [Linkedin](https://www.linkedin.com/in/jujunior/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_people%3BHkpwBhddSbe%2Fim6fCjn4UA%3D%3D%20%20)
 - Rafael Melo | Principal Consultant @Oracle
-  [Linkedin]](https://www.linkedin.com/in/rfdm/%20)
+  [Linkedin](https://www.linkedin.com/in/rfdm/%20)
 - Simone Pinheiro | Engenheira de Software Java
-  [Linkedin]](https://www.linkedin.com/in/apinheira-tech/)
+  [Linkedin](https://www.linkedin.com/in/apinheira-tech/)
 - Rodrigo Bamondes | Professor e Especialista em IA na São Judas – campus Unimonte
-  [Linkedin]](https://www.linkedin.com/in/rbamondes/)
+  [Linkedin](https://www.linkedin.com/in/rbamondes/)
 
 **Temas:**
 - 🤖 Impacto da IA na vida dos profissionais de programação
